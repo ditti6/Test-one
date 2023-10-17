@@ -5,7 +5,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Простой калькулятор");
-        System.out.print("Введите первое число: ");
+        Soland.out.print("Введите первое число: ");
         double number1 = scanner.nextDouble();
 
         System.out.print("Введите оператор (+, -, *, /): ");
