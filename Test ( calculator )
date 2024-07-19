@@ -33,8 +33,5 @@ public class Calculator {
             default:
                 System.out.println("Ошибка: неверный оператор.");
                 return;
-        }
-
-        System.out.println("Результат: " + result);
     }
 }
